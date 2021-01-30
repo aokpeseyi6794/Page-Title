@@ -1,0 +1,78 @@
+.Head {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+    border: 5px groove #33100e;
+    background-color: #04444a;
+    color: #ed0e0e;
+    border-radius: 8px;
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.menu2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 10px;
+    border: 5px groove #470704;
+    background-color: #88b9bf;
+    border-radius: 8px;
+}
+
+
+
+.Navbar {
+    margin: 10px;
+    padding: 10px;
+    border: 5px groove #33100e;
+    color: black;
+    border-radius: 8px;
+    font-family: 'Handlee', cursive;
+    Justify-Content: flex-start;
+}
+
+.Firstp {
+    font-family: 'Architects Daughter', cursive;
+    color: #7a1009;
+    background-color: #186bf0;
+}
+
+.List {
+    color: #bec918;
+    background-color: #730955;
+}
+
+p:Hover {
+    color: #330827;
+
+}
+
+ul:Hover {
+    color: black;
+}
+
+.Lastp {
+    font-family: 'Crete Round', serif;
+    Background-color: #e8e809;
+    color: #140103;
+}
+
+.Imgs {
+    margin: 10px;
+    padding: 10px;
+    border: 26.5px groove #1cd9d2;
+    Justify-Content: flex-start;
+}
+.Navigation{
+    background-color:#09b027;}
+
+body {
+  background: url("https://i.pinimg.com/originals/22/21/55/222155f5a393706ffebbd07c1754c992.jpg") no-repeat fixed center;
+    background-size: cover;
+}
